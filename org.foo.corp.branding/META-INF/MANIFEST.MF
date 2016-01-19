@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: FooCorp Branding plugin
+Bundle-SymbolicName: org.foo.corp.branding; singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.ui.intro,
+ org.eclipse.core.resources,
+ org.eclipse.core.expressions,
+ org.mule.tooling.osgi.services;bundle-version="[5.5.0,6.0.1)",
+ org.eclipse.e4.ui.model.workbench,
+ org.eclipse.e4.core.contexts,
+ org.mule.tooling.utils
+Bundle-ActivationPolicy: lazy
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-Vendor: FooCorp Inc.
+Service-Component: OSGI-INF/service.xml

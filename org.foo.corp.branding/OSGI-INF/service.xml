@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scr:component xmlns:scr="http://www.osgi.org/xmlns/scr/v1.1.0" name="BrandingService">
+   <implementation class="org.foo.corp.branding.FooCorpInstallationService"/>
+   <service>
+      <provide interface="org.mule.tooling.osgi.services.installation.InstallationInformationProviderService"/>
+   </service>
+</scr:component>

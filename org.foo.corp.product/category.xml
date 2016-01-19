@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature id="org.mule.tooling">
+      <category name="org.foo.corp"/>
+   </feature>
+   <feature id="org.foo.corp.branding.feature">
+      <category name="org.foo.corp"/>
+   </feature>
+   <feature id="org.mule.tooling.thirdparty">
+      <category name="org.foo.corp"/>
+   </feature>
+   <feature id="org.mule.tooling.extension.server.3.8.0.ee">
+      <category name="org.foo.corp"/>
+   </feature>
+
+   <feature id="org.mule.tooling.ui.extension.sap">
+      <category name="org.foo.corp"/>
+   </feature>
+   <category-def name="org.foo.corp" label="FooCorp Designer">
+      <description>
+         FooCorp Designer is the designer of the foo-ture.
+      </description>
+   </category-def>
+</site>

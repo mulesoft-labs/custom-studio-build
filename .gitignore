@@ -1,0 +1,24 @@
+.svn
+**/bin/
+.metadata
+target/
+BUILD_OUTPUT/
+*.iml
+*.ipr
+*.iws
+*.swp
+*/doc
+.DS_STORE
+**/.DS_Store
+**/target/
+workspace
+**/workspace
+**/screenshots/
+build.log
+.idea
+# m2e prefs
+**/org.eclipse.m2e.core.prefs
+# Vim temp files
+**/.*.un~
+**/.settings/*
+.recommenders
