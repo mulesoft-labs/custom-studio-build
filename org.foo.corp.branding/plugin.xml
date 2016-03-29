@@ -9,7 +9,7 @@
             name="FooCorp Designer">
          <property
                name="windowImages"
-               value="../icons/windowDecorations/studio16x16.png,../icons/windowDecorations/studio32x32.png,../icons/windowDecorations/studio48x48.png,../icons/windowDecorations/studio64x64.png,../icons/windowDecorations/studio128x128.png">
+               value="icons/windowDecorations/foocorp16x16.png,icons/windowDecorations/foocorp32x32.png,icons/windowDecorations/foocorp48x48.png,icons/windowDecorations/foocorp64x64.png,icons/windowDecorations/foocorp128x128.png">
          </property>
          <property
                name="startupProgressRect"
@@ -21,7 +21,7 @@
          </property>
          <property
                name="aboutImage"
-               value="../icons/mulesoft-logo.png">
+               value="icons/foocorp-logo.png">
          </property>
          <property
                name="aboutText"

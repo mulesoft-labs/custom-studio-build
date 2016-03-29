@@ -27,7 +27,7 @@
       startupForegroundColor="B0BDD6" />
    <launcher name="FooCorpDesigner">
       <linux icon="../icons/linux/studio.xpm"/>
-      <macosx icon="../icons/mac/foocorp.icns"/>
+      <macosx icon="icons/mac/foocorp.icns"/>
       <solaris/>
       <win useIco="true">
          <ico path="../icons/win/studio.ico"/>
